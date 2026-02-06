@@ -109,14 +109,14 @@ This project is open source and available for educational and personal use.
 
 ## Author
 
-Created by a cybersecurity enthusiast passionate about improving password security practices.
+Created by Obidiegwu Onyedikachi Henry a cybersecurity Engineer passionate about improving password security practices.
 
 ---
 
 **Disclaimer:** This tool is for educational and security assessment purposes only. Always follow organizational security policies and best practices when creating and managing passwords.
-```
 
-## 4. GitHub Actions Test Workflow
+
+## GitHub Actions Test Workflow
 Create `.github/workflows/python-tests.yml`:
 
 ```yaml
